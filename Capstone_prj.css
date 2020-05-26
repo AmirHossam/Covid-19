@@ -1,0 +1,66 @@
+body {
+    font-family: 'Chelsea Market', cursive;
+    background-color: #333533;
+    color: #ffffff;
+    text-align: center;
+    margin: 50px 60px;
+    font-size: larger;
+}
+
+h2 {
+    color: #ec9a29;
+}
+
+.first-par {
+    line-height: 1.7;
+    text-align: justify;
+}
+
+.first-arpar {
+    direction: rtl;
+}
+
+.most {
+    color: #fb5607;
+}
+
+.less {
+    color: #95d5b2;
+}
+
+.serious {
+    color: #f94144;
+}
+
+ul {
+    list-style: none;
+    line-height: 1.7;
+}
+
+button {
+    padding: 0%;
+    border: none;
+    height: 40px;
+    width: 40px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+.float-container {
+    height: 295px;
+}
+
+.float-child {
+    width: 33.333333333%;
+    float: left;
+    height: 100%;
+}
+
+.float-archild {
+    width: 33.333333333%;
+    float: right;
+    height: 100%;
+}
